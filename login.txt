@@ -1,5 +1,4 @@
 login with email and password 
 login with mibile number on time password
 login with MFA
-login with facial recognizition 
-login with finger print 
+login with finger print -- fixing finger print bug issue 
