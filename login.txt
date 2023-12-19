@@ -1,0 +1,5 @@
+login with email and password 
+login with mibile number on time password
+login with MFA
+login with facial recognizition 
+login with finger print 
